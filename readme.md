@@ -5,6 +5,7 @@ Tarjamili is the best tool you can use while watching movies or read something o
 
 ## How it works ?
 
+- Download Tarjamili.zip
 - Install the app
 - Open it
 - Click ALT+CAPS
